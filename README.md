@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning to be a full-stacked web developer
+- 🌱 I’m currently learning to be a full-stack web developer
 - 😄 Pronouns: He/Him
 
 <!--
